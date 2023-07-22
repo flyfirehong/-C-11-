@@ -1,0 +1,4 @@
+# ninja log v5
+1	147	7117395862882700	build.ninja	c10564d2b33201bf
+1	1823	7117393549819279	CMakeFiles/threadpool.dir/main.cpp.obj	9eaaa500fcd49c64
+1827	2507	7117393556644765	threadpool.exe	ec49e3a67109e58d
